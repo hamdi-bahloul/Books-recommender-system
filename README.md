@@ -1,5 +1,5 @@
 # Books-recommender-system
-Creating a recommendation model which recommends books for users based on read books
+Creating recommendation models to help users find books that may like
 
 
 At first , three data sets are used for this project which are books dataset , users dataset and ratings dataset.
